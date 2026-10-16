@@ -87,3 +87,4 @@ Grant permissions to the app you use to run Python (Terminal, VS Code, etc.).
 - Do not run this assistant with administrator privileges.
 - Voice recognition can mishear words; do not use it around sensitive unsaved work.
 - This is an educational engineering project, not a fully autonomous agent.
+# VERONICA-AI-
